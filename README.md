@@ -27,4 +27,5 @@ There are a few files in utils:
 
 ## My Solution
 
+You have to enter the name you are searching for in "searchName" in client/index.js
 
